@@ -1,0 +1,15 @@
+D:\UAY\smt02\Pemrograman\prak5\prak5\bin\Debug\net6.0\prak5.exe
+D:\UAY\smt02\Pemrograman\prak5\prak5\bin\Debug\net6.0\prak5.deps.json
+D:\UAY\smt02\Pemrograman\prak5\prak5\bin\Debug\net6.0\prak5.runtimeconfig.json
+D:\UAY\smt02\Pemrograman\prak5\prak5\bin\Debug\net6.0\prak5.dll
+D:\UAY\smt02\Pemrograman\prak5\prak5\bin\Debug\net6.0\prak5.pdb
+D:\UAY\smt02\Pemrograman\prak5\prak5\obj\Debug\net6.0\prak5.csproj.AssemblyReference.cache
+D:\UAY\smt02\Pemrograman\prak5\prak5\obj\Debug\net6.0\prak5.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAY\smt02\Pemrograman\prak5\prak5\obj\Debug\net6.0\prak5.AssemblyInfoInputs.cache
+D:\UAY\smt02\Pemrograman\prak5\prak5\obj\Debug\net6.0\prak5.AssemblyInfo.cs
+D:\UAY\smt02\Pemrograman\prak5\prak5\obj\Debug\net6.0\prak5.csproj.CoreCompileInputs.cache
+D:\UAY\smt02\Pemrograman\prak5\prak5\obj\Debug\net6.0\prak5.dll
+D:\UAY\smt02\Pemrograman\prak5\prak5\obj\Debug\net6.0\refint\prak5.dll
+D:\UAY\smt02\Pemrograman\prak5\prak5\obj\Debug\net6.0\prak5.pdb
+D:\UAY\smt02\Pemrograman\prak5\prak5\obj\Debug\net6.0\prak5.genruntimeconfig.cache
+D:\UAY\smt02\Pemrograman\prak5\prak5\obj\Debug\net6.0\ref\prak5.dll
